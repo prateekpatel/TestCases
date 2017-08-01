@@ -1,4 +1,6 @@
-# This is the TestCases of the deve
+
+# This is the TestCases of the master
+      >>>>>>> master
 Dockerfile -> docker run -itd -P imagename
 
 python -> prerequisite -> username should be same as this is not list , this will be a single argument.
